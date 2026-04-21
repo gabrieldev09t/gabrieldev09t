@@ -61,12 +61,20 @@ const GabrielDev = {
 | <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" /> | <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff&style=flat" /> | <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=000&style=flat" /> |
 | <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" /> | <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat" /> | <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat" /> |
 
-#### ⚙️ Backend & Systems
-| Server Side | Emerging Tech |
+#### ⚙️ Backend, Systems & IoT
+| Server Side | Emerging & IoT |
 | :---: | :---: |
 | <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat" /> | <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat" /> |
 | <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" /> | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" /> |
 | <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat" /> | <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat" /> |
+| <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" /> | <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff&style=flat" /> |
+
+#### 🎨 Design & Styling
+<p style="margin: 10px;">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SASS-C69?logo=sass&logoColor=fff&style=for-the-badge" />
+</p>
 
 #### 🛢️ Data Infrastructure (Relational & NoSQL)
 <p style="margin: 10px;">
@@ -76,6 +84,16 @@ const GabrielDev = {
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/BI_Publisher-DataViz?color=F5A623&style=for-the-badge" />
 </p>
+
+#### 🔌 IoT & Automation Projects
+<div align="center">
+  <p style="color: #0ff; text-shadow: 0 0 5px #0ff;">
+    <strong>Arduino Enthusiast</strong> | Automating real-world scenarios with C++ and IoT solutions.
+  </p>
+  <p style="font-size: 0.9em; color: #aaa;">
+    Developing custom automation systems, sensor integrations, and smart control units.
+  </p>
+</div>
 
 </div>
 
